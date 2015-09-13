@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "time": "2015-09-13 00:17:36"
+    "time": "2015-09-13 01:21:32"
   },
   "platforms": {
     "283282837": {
@@ -34961,9 +34961,7 @@
       "id": 5396703,
       "routes": [
         {
-          "errors": [
-            "\"ref\" tag differs from master's ref tag<br>(\"route: 1\", master: \"1/2\")"
-          ],
+          "errors": [],
           "id": 368584,
           "platforms": [
             2564091909,
@@ -37600,9 +37598,7 @@
           }
         },
         {
-          "errors": [
-            "\"ref\" tag differs from master's ref tag<br>(\"route: 2\", master: \"1/2\")"
-          ],
+          "errors": [],
           "id": 3339507,
           "platforms": [
             342037431,

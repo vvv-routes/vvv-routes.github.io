@@ -275,7 +275,8 @@ app.controller('SidebarCtrl', function ($scope, RoutesService) {
     $scope.routesSvc.focusOnPoint(platform.position);
   };
   $scope.focusRoute = function(route) {
-    $scope.routesSvc.zoomToBound(route.line.getBounds());
+    var line = $scope.routesSvc.polylines[route.id];
+    $scope.routesSvc.zoomToBound(line.getBounds());
   };
 });
 
