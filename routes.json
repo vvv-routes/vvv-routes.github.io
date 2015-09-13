@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "time": "2015-09-13 09:00:36"
+    "time": "2015-09-13 11:44:28"
   },
   "platforms": {
     "283282837": {
@@ -42661,9 +42661,7 @@
       "id": 5416022,
       "routes": [
         {
-          "errors": [
-            "big distance between <a href=\"http://www.openstreetmap.org/node/3684195943\">stop</a> and <a href=\"http://www.openstreetmap.org/node/2567048370\">platform</a>"
-          ],
+          "errors": [],
           "id": 3339509,
           "platforms": [
             2564091909,
@@ -53144,9 +53142,7 @@
       "id": 5416026,
       "routes": [
         {
-          "errors": [
-            "big distance between <a href=\"http://www.openstreetmap.org/node/3684195943\">stop</a> and <a href=\"http://www.openstreetmap.org/node/2567048370\">platform</a>"
-          ],
+          "errors": [],
           "id": 3339511,
           "platforms": [
             2564091909,
