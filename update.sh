@@ -6,7 +6,7 @@ set -e
 DIR=../bus_route_checker
 
 (cd $DIR && git pull)
-(cd $DIR && make clean && make)
+(cd $DIR && make cache-clean && make)
 
 cp    $DIR/index.html .
 cp    $DIR/routes.json .
