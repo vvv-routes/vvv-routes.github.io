@@ -1,0 +1,46 @@
+The subdirectories of this directory contain the following third party resources:
+
+*  'angular/'
+
+   from: https://angularjs.org
+   licensed under the MIT License
+
+*  'bootstrap/'
+
+   from http://getbootstrap.com
+   licensed under the MIT License
+
+*  'jquery/'
+
+   from https://jquery.com
+   licensed under the MIT License
+
+*  'leaflet/'
+
+   from http://leafletjs.com
+   licensed unter the 2-clause BSD License
+
+*  'modernizr/'
+
+   from http://modernizr.com
+   licensed under the MIT License
+
+*  'normalize/'
+
+   from http://necolas.github.io/normalize.css
+   licensed under the MIT License
+
+*  'icons/arrow_right.png'
+
+   from: https://commons.wikimedia.org/wiki/File:Arrow_icon.png
+   released into the public domain
+
+* 'icons/osm_logo.png'
+
+   from: http://commons.wikimedia.org/wiki/File:Openstreetmap_logo.svg
+   licensed under 'CC BY-SA 2.0'
+
+* 'icons/josm_logo.png'
+
+   from: http://commons.wikimedia.org/wiki/File:JOSM_Logo_2014.svg
+   licensed under 'CC0' (in the public domain)

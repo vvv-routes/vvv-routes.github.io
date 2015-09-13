@@ -1,0 +1,60 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+#sidebar {
+  float: left;
+  background: #efefef;
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 100%;
+  overflow-y: auto;
+}
+
+#sidebar > .sidebar-element {
+  margin: 6px;
+}
+
+#sidebar * .btn-group {
+  width: 100%;
+}
+
+#sidebar * .btn-group > .btn {
+  width: 50%;
+}
+
+#sidebar * li :not(.error) {
+  list-style: none;
+}
+
+.route-master-header * img,
+.route-header * img,
+.platform * img {
+  height: 1.3em;
+}
+
+.route-header > img,
+.platform > img {
+  cursor: pointer;
+  height: 1.3em;
+}
+
+li.error {
+  background: #ffcccc;
+  list-style: square outside none;
+}
+
+#sidebar * .comment {
+  text-align: center;
+}
+
+#map {
+  overflow:hidden;
+  background-color:#000;
+  height: 100%;
+}

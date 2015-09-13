@@ -5,12 +5,12 @@ set -e
 
 DIR=../bus_route_checker
 
-cd $DIR && git pull
-cd $DIR && make clean && make
+(cd $DIR && git pull)
+(cd $DIR && make clean && make)
 
 cp    $DIR/index.html .
 cp    $DIR/routes.json .
-cp -r $DIR/websrc 
+cp -r $DIR/websrc .
 
 git add --all
 git commit -m "update $(date --iso-8601=seconds -u)"

@@ -1,0 +1,145 @@
+<html ng-app="public_transport_checker">
+  <head>
+    <meta charset="utf-8" />
+    <title>public_transport routes</title>
+
+    <link rel="stylesheet" href="websrc/normalize/normalize.css" />
+    <link rel="stylesheet" href="websrc/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" href="websrc/leaflet/leaflet.css" />
+    <link rel="stylesheet" href="websrc/index.css" />
+  </head>
+  <body>
+    <div id="sidebar" ng-controller="SidebarCtrl">
+      <div class="sidebar-element">
+        <div class="btn-group" role="group">
+              <button type="button" class="btn btn-default" ng-click="showAll()">Show all on map</button>
+              <button type="button" class="btn btn-default" ng-click="hideAll()">Hide all from map</button>
+        </div>
+      </div>
+
+      <div class="sidebar-element">
+        <div class="btn-group" role="group">
+              <button type="button" class="btn btn-default" ng-click="expandAll()">Expand all</button>
+              <button type="button" class="btn btn-default" ng-click="collapseAll()">Collapse all</button>
+        </div>
+      </div>
+
+      <ul class="list-group sidebar-element">
+        <li class="list-group-item route master"
+            ng-repeat="master in routesSvc.route_masters">
+          <div class="route-master-header">
+            <a
+              href="http://www.openstreetmap.org/relation/{{ master.id }}"
+              target="_blank">
+              <img
+                src="websrc/icons/osm_logo.png"
+                title="Show relation details on OSM homepage">
+            </a>
+            <a
+              href="http://localhost:8111/load_object?objects=r{{ master.id }}&relation_members=true"
+              target="_blank">
+              <img
+                src="websrc/icons/josm_logo.png"
+                title="Edit in JOSM">
+            </a>
+            <a href="" ng-click="toggleDetails(master)">
+              {{ master.tags.name }}
+            </a>
+          </div>
+
+          <div ng-show="master.show_details">
+            {{ (master.errors.length > 0) ? "Errors:" : ""  }}
+            <ul> <!-- route_master errors -->
+              <li class="error" ng-repeat="error in master.errors">
+                <div ng-bind-html="error"></div>
+              </li>
+            </ul>
+            <ul> <!-- child routes of route_master -->
+              <li ng-repeat="route in master.routes" class="route">
+                <div class="route-header">
+                  <input class="route-checkbox" type="checkbox" ng-model="route.visible">
+                  <a
+                    href="http://www.openstreetmap.org/relation/{{ route.id }}"
+                    target="_blank">
+                    <img
+                      src="websrc/icons/osm_logo.png"
+                      title="Show relation details on OSM homepage">
+                  </a>
+                  <a
+                    href="http://localhost:8111/load_object?objects=r{{ route.id }}&relation_members=true"
+                    target="_blank">
+                    <img
+                      src="websrc/icons/josm_logo.png"
+                      title="Edit in JOSM">
+                  </a>
+                  <img
+                    src="websrc/icons/arrow_right.png"
+                    title="Focus on map"
+                    ng-click="focusRoute(route)">
+                  <a href="" ng-click="toggleDetails(route)">
+                    {{ route.tags.name }}
+                  </a>
+                </div>
+                <div ng-show="route.show_details">
+                  {{ (route.errors.length > 0) ? "Errors:" : ""  }}
+                  <ul> <!-- route errors -->
+                    <li class="error" ng-repeat="error in route.errors">
+                      <div ng-bind-html="error"></div>
+                    </li>
+                  </ul>
+                  {{ (route.platforms.length > 0) ? "Platforms:" : ""  }}
+                  <ul> <!-- platforms -->
+                    <li
+                      class="platform"
+                      ng-repeat="platform_id in route.platforms track by $index">
+                      <a
+                        href="http://www.openstreetmap.org/node/{{ platform_id }}"
+                        target="_blank">
+                        <img
+                          src="websrc/icons/osm_logo.png"
+                          title="Show platform details on OSM homepage">
+                      </a>
+                      <a
+                        href="http://localhost:8111/load_object?objects=n{{ platform_id }}"
+                        target="_blank">
+                        <img
+                          src="websrc/icons/josm_logo.png"
+                          title="Edit in JOSM">
+                      </a>
+                        <img
+                          src="websrc/icons/arrow_right.png"
+                          title="Focus on map"
+                          ng-click="focusPlatform(platform_id)">
+                      {{ getPlatformName(platform_id) }}
+                    <li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+
+      <div class="sidebar-element">
+        <div class="comment">
+          Data from {{ routesSvc.metadata.time }} (UTC).<br>
+          <a href="https://bitbucket.org/jenste/bus_route_checker">
+            bus_route_checker
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div id="map" ng-controller="MapCtrl"></div>
+
+    <!-- scripts before end of body -->
+    <script src="websrc/angular/angular.min.js"></script>
+    <script src="websrc/angular/angular-sanitize.min.js"></script>
+    <script src="websrc/jquery/jquery-2.1.4.min.js"></script>
+    <script src="websrc/bootstrap/bootstrap.min.js"></script>
+    <script src="websrc/leaflet/leaflet.js"></script>
+    <script src="websrc/modernizr/modernizr.js"></script>
+
+    <script src="websrc/index.js"></script>
+  </body>
+</html>
