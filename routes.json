@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "time": "2015-09-19 20:01:14"
+    "time": "2015-09-19 22:01:16"
   },
   "platforms": {
     "283282837": {
@@ -60260,6 +60260,7 @@
             ]
           ],
           "tags": {
+            "colour": "#00AFE7",
             "from": "Bregenz Bahnhof",
             "name": "VVV Linie 19 Bregenz => H\u00f6rbranz",
             "network": "Verkehrsverbund Vorarlberg",
@@ -61579,6 +61580,7 @@
             ]
           ],
           "tags": {
+            "colour": "#00AFE7",
             "from": "H\u00f6rbranz Gemeindeamt",
             "name": "VVV Linie 19 H\u00f6rbranz => Bregenz",
             "network": "Verkehrsverbund Vorarlberg",
@@ -64891,10 +64893,7 @@
           }
         },
         {
-          "errors": [
-            "<a href=\"http://www.openstreetmap.org/node/1743176526\">first stop</a> isn't one of the ends of the first way (<a href=\"http://www.openstreetmap.org/node/60636602\">endpoint</a>, <a href=\"http://www.openstreetmap.org/node/3750334393\">endpoint</a>)",
-            "<a href=\"http://www.openstreetmap.org/way/371468115\">way</a> and <a href=\"http://www.openstreetmap.org/way/116847813\">way</a> are not connected"
-          ],
+          "errors": [],
           "id": 3342057,
           "platforms": [
             580833287,
