@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "time": "2015-09-20 18:01:00"
+    "time": "2015-09-20 20:01:30"
   },
   "platforms": {
     "283282837": {
@@ -58960,38 +58960,22 @@
             "<a href=\"http://www.openstreetmap.org/node/3712382032\">node</a> doesn't have \"platform\" role",
             "big distance between <a href=\"http://www.openstreetmap.org/node/3707147835\">stop</a> and <a href=\"http://www.openstreetmap.org/node/2860619915\">platform</a>",
             "<a href=\"http://www.openstreetmap.org/node/3707147521\">first stop</a> isn't one of the ends of the first way (<a href=\"http://www.openstreetmap.org/node/856689031\">endpoint</a>, <a href=\"http://www.openstreetmap.org/node/324915473\">endpoint</a>)",
-            "<a href=\"http://www.openstreetmap.org/node/176731582\">last stop</a> isn't one of the ends of the last way (<a href=\"http://www.openstreetmap.org/node/856689031\">endpoint</a>, <a href=\"http://www.openstreetmap.org/node/324915473\">endpoint</a>)",
             "<a href=\"http://www.openstreetmap.org/node/3707147521\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/2628233950\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147522\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/856314135\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147524\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/1255778760\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147825\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/559566558\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147827\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/559566101\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/544069021\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/3703472790\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/176729835\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/608583759\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147829\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/611040449\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147831\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/3690027580\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147833\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/1687826072\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147834\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/3690027579\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147835\">stop node</a> has \"name\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3712382032\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/2860619915\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147837\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/2860619916\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/1008419760\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/1403852833\">platform node</a> has no \"highway\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/176731582\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/790285632\">platform node</a> has no \"highway\" tag"
+            "<a href=\"http://www.openstreetmap.org/node/176731582\">stop node</a> has \"name\" tag"
           ],
           "id": 5453375,
           "platforms": [
@@ -60276,38 +60260,23 @@
           "errors": [
             "<a href=\"http://www.openstreetmap.org/node/3712382032\">node</a> doesn't have \"platform\" role",
             "<a href=\"http://www.openstreetmap.org/node/3707147835\">node</a> doesn't have \"platform\" role",
-            "<a href=\"http://www.openstreetmap.org/node/2628233952\">node</a> doesn't have \"stop\" role",
             "big distance between <a href=\"http://www.openstreetmap.org/node/3707147837\">stop</a> and <a href=\"http://www.openstreetmap.org/node/1106651401\">platform</a>",
-            "<a href=\"http://www.openstreetmap.org/node/3707147836\">first stop</a> isn't one of the ends of the first way (<a href=\"http://www.openstreetmap.org/node/267577216\">endpoint</a>, <a href=\"http://www.openstreetmap.org/node/251042894\">endpoint</a>)",
-            "<a href=\"http://www.openstreetmap.org/node/3707147523\">last stop</a> isn't one of the ends of the last way (<a href=\"http://www.openstreetmap.org/node/267577216\">endpoint</a>, <a href=\"http://www.openstreetmap.org/node/251042894\">endpoint</a>)",
+            "<a href=\"http://www.openstreetmap.org/node/3707147836\">first stop</a> isn't one of the ends of the first way (<a href=\"http://www.openstreetmap.org/node/176731582\">endpoint</a>, <a href=\"http://www.openstreetmap.org/node/251042894\">endpoint</a>)",
             "<a href=\"http://www.openstreetmap.org/node/3707147836\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/793266176\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/1008419760\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/2645450415\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147837\">stop node</a> has \"name\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3712382032\">stop node</a> has \"name\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147835\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/1106651401\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147834\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/1106651618\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147833\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/559569918\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147832\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/559570016\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147830\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/559558445\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147828\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/559559288\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/2889225271\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/3703472789\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147826\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/867179890\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147825\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/867179953\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/578255505\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/856314137\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147523\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/856314136\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/way/29475058\">way</a> is not connected to the <a href=\"http://www.openstreetmap.org/way/258935010\">roundabout</a>"
           ],
           "id": 1132305,
@@ -61558,24 +61527,12 @@
                 9.7405909
               ],
               [
-                47.5021848,
-                9.7405225
+                47.502234,
+                9.7404715
               ],
               [
-                47.5021356,
-                9.740394
-              ],
-              [
-                47.5021055,
-                9.7399469
-              ],
-              [
-                47.5021055,
-                9.7397893
-              ],
-              [
-                47.5021055,
-                9.7396583
+                47.5022139,
+                9.7397896
               ]
             ]
           ],
