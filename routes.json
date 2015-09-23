@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "time": "2015-09-23 14:01:11"
+    "time": "2015-09-23 16:01:14"
   },
   "platforms": {
     "283282837": {
@@ -59078,21 +59078,13 @@
             "<a href=\"http://www.openstreetmap.org/node/544069021\">stop node</a> has \"name\" tag",
             "<a href=\"http://www.openstreetmap.org/node/176729835\">stop node</a> has \"name\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3717396460\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/867179868\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/1706699524\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/559558977\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/417058788\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/867179905\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3717396461\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/867179852\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3717396462\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/2642424685\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3717396463\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/2645450416\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/602249344\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/2645450419\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3717396464\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/2645450421\">platform node</a> has no \"highway\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147836\">stop node</a> has \"name\" tag"
           ],
           "id": 1975572,
@@ -60387,18 +60379,6 @@
               [
                 47.5555399,
                 9.7514076
-              ],
-              [
-                47.5556135,
-                9.7517727
-              ],
-              [
-                47.5556635,
-                9.7520729
-              ],
-              [
-                47.5557279,
-                9.7525362
               ]
             ]
           ],
@@ -60418,9 +60398,6 @@
         },
         {
           "errors": [
-            "<a href=\"http://www.openstreetmap.org/node/578255505\">stop node</a> isn't part of the route",
-            "<a href=\"http://www.openstreetmap.org/node/3707147523\">stop node</a> isn't part of the route",
-            "<a href=\"http://www.openstreetmap.org/node/176731582\">first stop</a> isn't one of the ends of the first way (<a href=\"http://www.openstreetmap.org/node/267577216\">endpoint</a>, <a href=\"http://www.openstreetmap.org/node/3707147836\">endpoint</a>)",
             "<a href=\"http://www.openstreetmap.org/node/176731582\">stop node</a> has \"name\" tag",
             "<a href=\"http://www.openstreetmap.org/node/2419249355\">stop node</a> has \"name\" tag",
             "<a href=\"http://www.openstreetmap.org/node/176731034\">stop node</a> has \"name\" tag",
@@ -60435,8 +60412,7 @@
             "<a href=\"http://www.openstreetmap.org/node/3707147826\">stop node</a> has \"name\" tag",
             "<a href=\"http://www.openstreetmap.org/node/3707147825\">stop node</a> has \"name\" tag",
             "<a href=\"http://www.openstreetmap.org/node/578255505\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/3707147523\">stop node</a> has \"name\" tag",
-            "<a href=\"http://www.openstreetmap.org/way/73064164\">way</a> and <a href=\"http://www.openstreetmap.org/way/371634759\">way</a> are not connected"
+            "<a href=\"http://www.openstreetmap.org/node/3707147523\">stop node</a> has \"name\" tag"
           ],
           "id": 5469813,
           "platforms": [
@@ -60458,24 +60434,6 @@
             2628233952
           ],
           "polylines": [
-            [
-              [
-                47.5557279,
-                9.7525362
-              ],
-              [
-                47.5556635,
-                9.7520729
-              ],
-              [
-                47.5556135,
-                9.7517727
-              ],
-              [
-                47.5555399,
-                9.7514076
-              ]
-            ],
             [
               [
                 47.5551719,
@@ -61450,276 +61408,168 @@
                 9.7499763
               ],
               [
-                47.5061279,
-                9.7498173
+                47.5061816,
+                9.7497739
               ],
               [
-                47.5060242,
-                9.7496527
+                47.5060997,
+                9.7496116
               ],
               [
-                47.5059364,
-                9.7495132
-              ]
-            ],
-            [
-              [
-                47.5059025,
-                9.7495512
+                47.5060426,
+                9.749446
               ],
               [
-                47.5059364,
-                9.7495132
+                47.5060296,
+                9.7493975
               ],
               [
-                47.5059602,
-                9.7494648
+                47.5059979,
+                9.749276
               ],
               [
-                47.5059738,
-                9.7494084
+                47.505981,
+                9.7490967
               ],
               [
-                47.5059762,
-                9.7493486
+                47.5059805,
+                9.7489203
               ],
               [
-                47.5059671,
-                9.7492902
+                47.505973,
+                9.7487013
               ],
               [
-                47.5059508,
-                9.7492451
+                47.5059259,
+                9.7485524
               ],
               [
-                47.5059276,
-                9.7492071
+                47.5058553,
+                9.748423
               ],
               [
-                47.5058989,
-                9.7491786
+                47.5057319,
+                9.7482734
               ],
               [
-                47.5058737,
-                9.7491638
+                47.5057007,
+                9.7482086
               ],
               [
-                47.505847,
-                9.7491565
+                47.5056141,
+                9.7479911
               ],
               [
-                47.505799,
-                9.7491623
+                47.5054535,
+                9.7476373
               ],
               [
-                47.505755,
-                9.7491915
+                47.5052203,
+                9.7471308
               ],
               [
-                47.5057201,
-                9.7492408
+                47.5049317,
+                9.746487
               ],
               [
-                47.5056984,
-                9.7493045
+                47.5048469,
+                9.7462553
               ],
               [
-                47.5056921,
-                9.7493651
+                47.5048023,
+                9.7461336
               ],
               [
-                47.5056979,
-                9.7494259
+                47.5047513,
+                9.7459671
               ],
               [
-                47.5057153,
-                9.7494816
+                47.5046388,
+                9.7455639
               ],
               [
-                47.5057428,
-                9.7495275
+                47.5046,
+                9.7454246
               ],
               [
-                47.505779,
-                9.7495603
-              ],
-              [
-                47.5058202,
-                9.7495759
-              ],
-              [
-                47.5058626,
-                9.7495728
-              ],
-              [
-                47.5059025,
-                9.7495512
-              ]
-            ],
-            [
-              [
-                47.5022139,
-                9.7397896
-              ],
-              [
-                47.502234,
-                9.7404715
-              ],
-              [
-                47.5022031,
-                9.7405909
-              ],
-              [
-                47.5021909,
-                9.7406911
-              ],
-              [
-                47.5021784,
-                9.7407587
-              ],
-              [
-                47.5021228,
-                9.7409055
-              ],
-              [
-                47.5022805,
-                9.7409663
-              ],
-              [
-                47.5024499,
-                9.7409924
-              ],
-              [
-                47.5026092,
-                9.7409863
-              ],
-              [
-                47.5027794,
-                9.7409719
-              ],
-              [
-                47.5028666,
-                9.7409883
-              ],
-              [
-                47.5029345,
-                9.7410426
-              ],
-              [
-                47.5030185,
-                9.7411556
-              ],
-              [
-                47.5030712,
-                9.7412631
-              ],
-              [
-                47.503231,
-                9.7417742
-              ],
-              [
-                47.5033654,
-                9.7422135
-              ],
-              [
-                47.5034772,
-                9.7425895
-              ],
-              [
-                47.5037449,
-                9.7434953
+                47.5042458,
+                9.7445726
               ],
               [
                 47.5037966,
                 9.7436702
               ],
               [
-                47.5040137,
-                9.7442289
+                47.5037449,
+                9.7434953
               ],
               [
-                47.5042874,
-                9.744867
+                47.5034772,
+                9.7425895
               ],
               [
-                47.5044,
-                9.7451485
+                47.5033654,
+                9.7422135
               ],
               [
-                47.5045245,
-                9.745515
+                47.503231,
+                9.7417742
               ],
               [
-                47.5046219,
-                9.7458765
+                47.5030712,
+                9.7412631
               ],
               [
-                47.504662,
-                9.7460253
+                47.5030185,
+                9.7411556
               ],
               [
-                47.5047152,
-                9.7461943
+                47.5029345,
+                9.7410426
               ],
               [
-                47.504776,
-                9.7463368
+                47.5028666,
+                9.7409883
               ],
               [
-                47.5048777,
-                9.746575
+                47.5027794,
+                9.7409719
               ],
               [
-                47.5050348,
-                9.7469431
+                47.5026092,
+                9.7409863
               ],
               [
-                47.5051131,
-                9.7471073
+                47.5024499,
+                9.7409924
               ],
               [
-                47.5052142,
-                9.7473407
+                47.5022805,
+                9.7409663
               ],
               [
-                47.5053417,
-                9.7475976
+                47.5021228,
+                9.7409055
               ],
               [
-                47.5054906,
-                9.7478952
+                47.5021784,
+                9.7407587
               ],
               [
-                47.5056666,
-                9.7482469
+                47.5021909,
+                9.7406911
               ],
               [
-                47.5057244,
-                9.7483648
+                47.5022031,
+                9.7405909
               ],
               [
-                47.5057968,
-                9.7485125
+                47.502234,
+                9.7404715
               ],
               [
-                47.5058492,
-                9.7486773
-              ],
-              [
-                47.5058742,
-                9.7488388
-              ],
-              [
-                47.5058731,
-                9.7489857
-              ],
-              [
-                47.5058537,
-                9.7491155
-              ],
-              [
-                47.505847,
-                9.7491565
+                47.5022139,
+                9.7397896
               ]
             ]
           ],
