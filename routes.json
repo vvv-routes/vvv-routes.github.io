@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "time": "2015-11-05 14:01:04"
+    "time": "2015-11-05 16:01:10"
   },
   "platforms": {
     "278357029": {
@@ -167107,9 +167107,7 @@
           }
         },
         {
-          "errors": [
-            "<a href=\"http://www.openstreetmap.org/way/360892737\">way</a> is not connected to the <a href=\"http://www.openstreetmap.org/way/24675243\">roundabout</a>"
-          ],
+          "errors": [],
           "id": 1559992,
           "platforms": [
             2599864336,
