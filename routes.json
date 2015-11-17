@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "time": "2015-11-17 12:00:54"
+    "time": "2015-11-17 14:00:56"
   },
   "platforms": {
     "278357029": {
@@ -5326,8 +5326,8 @@
     "2860619916": {
       "name": "H\u00f6rbranz, Seeblick",
       "position": [
-        47.5590532,
-        9.7622488
+        47.5590704,
+        9.7623085
       ]
     },
     "2906245066": {
@@ -62013,10 +62013,7 @@
       "id": 5516405,
       "routes": [
         {
-          "errors": [
-            "<a href=\"http://www.openstreetmap.org/node/2860619916\">stop node</a> has wrong value for \"public_transport\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/2860619916\">platform node</a> has wrong value for \"public_transport\" tag"
-          ],
+          "errors": [],
           "id": 5453375,
           "platforms": [
             2628233950,
@@ -63290,10 +63287,7 @@
           }
         },
         {
-          "errors": [
-            "<a href=\"http://www.openstreetmap.org/node/2860619916\">stop node</a> has wrong value for \"public_transport\" tag",
-            "<a href=\"http://www.openstreetmap.org/node/2860619916\">platform node</a> has wrong value for \"public_transport\" tag"
-          ],
+          "errors": [],
           "id": 1132305,
           "platforms": [
             793266176,
