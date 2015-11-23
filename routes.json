@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "time": "2015-11-23 00:00:49"
+    "time": "2015-11-23 02:00:48"
   },
   "platforms": {
     "278357029": {
@@ -6572,8 +6572,8 @@
     "3561706160": {
       "name": "Rankweil Lindenweg",
       "position": [
-        47.2698329,
-        9.6300139
+        47.2696942,
+        9.6305695
       ]
     },
     "3562350073": {
@@ -108549,7 +108549,9 @@
           }
         },
         {
-          "errors": [],
+          "errors": [
+            "big distance between <a href=\"http://www.openstreetmap.org/node/3561706183\">stop</a> and <a href=\"http://www.openstreetmap.org/node/3561706160\">platform</a>"
+          ],
           "id": 5227578,
           "platforms": [
             897786930,
@@ -111126,7 +111128,9 @@
           }
         },
         {
-          "errors": [],
+          "errors": [
+            "big distance between <a href=\"http://www.openstreetmap.org/node/3561706183\">stop</a> and <a href=\"http://www.openstreetmap.org/node/3561706160\">platform</a>"
+          ],
           "id": 3342633,
           "platforms": [
             897786930,
