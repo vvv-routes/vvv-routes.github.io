@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "time": "2015-11-29 12:00:48"
+    "time": "2015-11-29 14:00:42"
   },
   "platforms": {
     "278357029": {
@@ -1483,8 +1483,8 @@
     "652966147": {
       "name": "Klaus Bahnhof",
       "position": [
-        47.3090742,
-        9.6249039
+        47.3087957,
+        9.6254638
       ]
     },
     "652966158": {
@@ -89651,7 +89651,9 @@
           }
         },
         {
-          "errors": [],
+          "errors": [
+            "big distance between <a href=\"http://www.openstreetmap.org/node/283444613\">stop</a> and <a href=\"http://www.openstreetmap.org/node/652966147\">platform</a>"
+          ],
           "id": 415836,
           "platforms": [
             2636686525,
@@ -116410,7 +116412,9 @@
           }
         },
         {
-          "errors": [],
+          "errors": [
+            "big distance between <a href=\"http://www.openstreetmap.org/node/283444613\">stop</a> and <a href=\"http://www.openstreetmap.org/node/652966147\">platform</a>"
+          ],
           "id": 3388390,
           "platforms": [
             652966147,
@@ -155879,7 +155883,9 @@
       "id": 5217100,
       "routes": [
         {
-          "errors": [],
+          "errors": [
+            "big distance between <a href=\"http://www.openstreetmap.org/node/283444613\">stop</a> and <a href=\"http://www.openstreetmap.org/node/652966147\">platform</a>"
+          ],
           "id": 415931,
           "platforms": [
             652966147,
