@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "time": "2016-01-09 16:00:48"
+    "time": "2016-01-09 18:00:46"
   },
   "platforms": {
     "278357029": {
@@ -59727,32 +59727,32 @@
                 9.7409872
               ],
               [
-                47.5026843,
-                9.7409233
+                47.5026817,
+                9.741015
               ],
               [
-                47.5027962,
-                9.7409167
+                47.5027758,
+                9.7410213
               ],
               [
-                47.5028982,
-                9.740943
+                47.5028625,
+                9.7410531
               ],
               [
-                47.5029934,
-                9.7410187
+                47.5029513,
+                9.7411389
               ],
               [
-                47.5030633,
-                9.7411424
+                47.503033,
+                9.7412761
               ],
               [
-                47.5031257,
-                9.7412892
+                47.5030837,
+                9.7414424
               ],
               [
-                47.5032113,
-                9.7415885
+                47.5031471,
+                9.7416462
               ],
               [
                 47.503231,
@@ -59763,12 +59763,12 @@
                 9.7422135
               ],
               [
-                47.5034516,
-                9.7423679
+                47.503385,
+                9.7424402
               ],
               [
-                47.5037778,
-                9.7434683
+                47.5037111,
+                9.7435153
               ],
               [
                 47.5037966,
@@ -60967,7 +60967,7 @@
           "tags": {
             "description": "Bregenz Bahnhof - H\u00f6rbranz Gemeindeamt",
             "from": "Bregenz Bahnhof",
-            "name": "VVV Linie 10 Bregenz => H\u00f6rbranz",
+            "name": "VVV Linie 10 - Bregenz - H\u00f6rbranz",
             "network": "Verkehrsverbund Vorarlberg",
             "operator": "Landbus Unterland",
             "public_transport:version": "2",
@@ -62151,7 +62151,7 @@
             "colour": "01ae59",
             "description": "H\u00f6rbranz Gemeindeamt - Bregenz Bahnhof",
             "from": "H\u00f6rbranz Gemeindeamt",
-            "name": "VVV Linie 10 H\u00f6rbranz => Bregenz",
+            "name": "VVV Linie 10 - H\u00f6rbranz - Bregenz",
             "network": "Verkehrsverbund Vorarlberg",
             "operator": "Landbus Unterland",
             "public_transport:version": "2",
@@ -62240,32 +62240,32 @@
                 9.7409872
               ],
               [
-                47.5026843,
-                9.7409233
+                47.5026817,
+                9.741015
               ],
               [
-                47.5027962,
-                9.7409167
+                47.5027758,
+                9.7410213
               ],
               [
-                47.5028982,
-                9.740943
+                47.5028625,
+                9.7410531
               ],
               [
-                47.5029934,
-                9.7410187
+                47.5029513,
+                9.7411389
               ],
               [
-                47.5030633,
-                9.7411424
+                47.503033,
+                9.7412761
               ],
               [
-                47.5031257,
-                9.7412892
+                47.5030837,
+                9.7414424
               ],
               [
-                47.5032113,
-                9.7415885
+                47.5031471,
+                9.7416462
               ],
               [
                 47.503231,
@@ -62276,12 +62276,12 @@
                 9.7422135
               ],
               [
-                47.5034516,
-                9.7423679
+                47.503385,
+                9.7424402
               ],
               [
-                47.5037778,
-                9.7434683
+                47.5037111,
+                9.7435153
               ],
               [
                 47.5037966,
@@ -63440,7 +63440,7 @@
           "tags": {
             "colour": "#00AFE7",
             "from": "Bregenz Bahnhof",
-            "name": "VVV Linie 19 Bregenz => H\u00f6rbranz",
+            "name": "VVV Linie 19 - Bregenz - H\u00f6rbranz",
             "network": "Verkehrsverbund Vorarlberg",
             "operator": "Landbus Unterland",
             "public_transport:version": "2",
@@ -64582,7 +64582,7 @@
           "tags": {
             "colour": "#00AFE7",
             "from": "H\u00f6rbranz Gemeindeamt",
-            "name": "VVV Linie 19 H\u00f6rbranz => Bregenz",
+            "name": "VVV Linie 19 - H\u00f6rbranz - Bregenz",
             "network": "Verkehrsverbund Vorarlberg",
             "operator": "Landbus Unterland",
             "public_transport:version": "2",
